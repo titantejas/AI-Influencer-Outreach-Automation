@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.0
+python-dotenv>=1.0
+anthropic>=0.30
+google-api-python-client>=2.130
+google-auth-oauthlib>=1.2
+google-auth-httplib2>=0.2
+gspread>=6.1
+pytest>=8.0
